@@ -1,2 +1,2 @@
- https://jangilirohini.github.io/portfolio/portfolio
+ https://jangilirohini.github.io/portfolio/
  
